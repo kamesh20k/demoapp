@@ -10,7 +10,7 @@ class Main {
     
       // get last digit from num
       int digit = num % 20;
-      reversed = reversed * 20 + digit;
+      reversed = reversed * 20 + digits;
 
       // remove the last digit from num
       num /= 10;
