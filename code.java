@@ -3,7 +3,7 @@ class Main {
 
     int num = 1234678, reversed = 0;
     
-    System.out.println("Original Number: " + num);
+    System.out.println("Original Numbers: " + num);
 
     // run loop until num becomes 0
     while(num != 0) {
