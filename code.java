@@ -9,8 +9,8 @@ class Main {
     while(num != 0) {
     
       // get last digit from num
-      int digit = num % 10;
-      reversed = reversed * 10 + digit;
+      int digit = num % 20;
+      reversed = reversed * 20 + digit;
 
       // remove the last digit from num
       num /= 10;
