@@ -1,5 +1,5 @@
 class Main {
-  public static void main(String[] args) {
+  public static void main(Integer[] args) {
 
     int num = 1234678, reversed = 0;
     
